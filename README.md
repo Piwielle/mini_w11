@@ -56,17 +56,6 @@ Une fois tous les pilotes téléchargés, on peut les dézipper et les installer
 
 Support vidéo : [<img src="https://i.imgur.com/cRUau5i.png" height="20" width="30" alt="Logo YouTube" class="img-logo-ytb"> Installer ses pilotes](https://youtu.be/olOuIQA1HzY)
 
-
-## Bibliothèques C++
-
-Les bibliothèques C++ (traduction libre) sont nécessaires à beaucoup d'applications et de jeux pour fonctionner. Certains vont les installer automatiquement, d'autres vont vous faire des erreurs et ne pas vous laisser les installer/lancer (souvent avec un message d'erreur qui aide pas trop). On va donc tout installer maintenant, pour être tranquille.
-
-- On télécharge le pack de bibliothèques C++ sur [le site de TechPowerup](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).
-- On extrait l'archive téléchargée.
-- On lance **install_all** **en tant qu'administrateur**.
-
-Support vidéo : [<img src="https://i.imgur.com/cRUau5i.png" height="20" width="30" alt="Logo YouTube" class="img-logo-ytb"> Bibliothèques C++](https://youtu.be/Ck-65Ku7ohg)
-
 ## Les bonnes pratiques
 
 L'installation de Windows est terminée, mais avant de vous laisser, on va parler des bonnes pratiques et des choses à faire sur le PC pour essayer de le garder propre le plus longtemps possible et éviter les problèmes.
